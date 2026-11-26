@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên: Diêm Quang Huy**
 - **Lớp:CNTT1**
-- **Link repository Pha1:**
+- **Link repository Pha1:**https://github.com/diemquanghuy1234-cell/K26-CNTT1_PROMTAI_pha1/edit/main/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
